@@ -27,7 +27,7 @@ Note:
 
 We run the first script ([how to run your python scripts](https://realpython.com/run-python-scripts/)) to change the name and location of these files. We open a terminal in the folder where we have downloaded it and write:
 
-`python3 assimil_more_pretty.py path-to-you-assimil-mp3 path-to-new-folder`
+`python3 assimil_more_pretty.py path-to-your-assimil-mp3 path-to-new-folder`
 
 For example:
 
@@ -63,7 +63,7 @@ Flashcard idea:
 
 command:
 
-`python3 listening_assimil.py path-to-you-assimil-mp3 path-to-new-folder for example`
+`python3 listening_assimil.py path-to-your-assimil-mp3 path-to-new-folder for example`
 
 example:
 
@@ -88,7 +88,7 @@ Flashcard idea:
 
 command:
 
-`python3 translate_assimil.py path-to-you-assimil-mp3 path-to-new-folder`
+`python3 translate_assimil.py path-to-your-assimil-mp3 path-to-new-folder`
 
 example:
 
@@ -106,7 +106,7 @@ Flashcard idea: read the text aloud and then compare yourself to the audio.
 
 command:
 
-`python3 speaking_assimil.py path-to-you-assimil-mp3 path-to-new-folder`
+`python3 speaking_assimil.py path-to-your-assimil-mp3 path-to-new-folder`
 
 example:
 
