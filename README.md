@@ -1,6 +1,6 @@
 From this post: https://www.reddit.com/r/languagelearning/comments/k9rj73/anki_and_assimil_how_to_do_it_fast_tutorial/
-# Anki-and-Assimil-how-to-do-it-fast-
 
+# Anki-and-Assimil-how-to-do-it-fast-
 
 Assimil + Anki is a great combination. The problem is that creating the cards one by one for each dialogue is very slow. I want to share a little tutorial to create all flashcards at once. The idea is to create CSV files to be imported from Anki. Three types of CSVs to practice: translate, speaking, listen. Here we go:
 
@@ -9,7 +9,7 @@ Assimil + Anki is a great combination. The problem is that creating the cards on
 1. Install Python ([tutorial](https://realpython.com/installing-python/#how-to-check-your-python-version-on-windows)). Python is a programming language.
 2. Install PIP ([tutorial](https://www.w3schools.com/python/python_pip.asp)). PIP is a package manager for Python packages.
 3. Install eyeD3 ([link](https://pypi.org/project/eyeD3/)). eyeD3 is a Python tool for working with audio files, specifically MP3 files containing ID3 metadata (i.e. song info).
-4. [Download](https://drive.google.com/drive/u/1/folders/1JzR8-K-TCTEIQ_ey4j9KYeAszkNKPJ1S) Python scripts.
+4. Download Python scripts: [GitHub](https://github.com/faifrio/Anki-and-Assimil-how-to-do-it-fast-) or [Drive](https://drive.google.com/drive/u/1/folders/1JzR8-K-TCTEIQ_ey4j9KYeAszkNKPJ1S)
 
 ## Step 1: rename and add the audios to Anki
 
