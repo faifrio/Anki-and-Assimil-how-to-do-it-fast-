@@ -13,7 +13,7 @@ lesson_folders = listdir(path_in)
 lesson_folders = sorted(lesson_folders)
 for folder in lesson_folders:
     if folder[0] == "L":
-        path = path_in + folder + "\\"
+        path = path_in + folder + "/"
         files_folder = listdir(path)
         files_folder = sorted(files_folder)
 
