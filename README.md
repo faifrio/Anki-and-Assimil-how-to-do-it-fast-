@@ -114,7 +114,7 @@ example:
 
 ## Step 3: import and enjoy
 
-To import a file to Anki (File→Import) I recommend doing the lesson of the day. Add the translation in the corresponding csv. Import the lesson csv and start with Anki.
+To import a file to Anki (File→Import). I recommend doing the lesson of the day. Add the translation in the corresponding csv. Import the lesson csv and start with Anki.
 
 # Extra: IPA (International Phonetic Alphabet).
 
