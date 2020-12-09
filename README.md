@@ -1,6 +1,6 @@
 From this post: https://www.reddit.com/r/languagelearning/comments/k9rj73/anki_and_assimil_how_to_do_it_fast_tutorial/
 
-# Anki-and-Assimil-how-to-do-it-fast-
+# Anki and Assimil, how to-do it fast
 
 Assimil + Anki is a great combination. The problem is that creating the cards one by one for each dialogue is very slow. I want to share a little tutorial to create all flashcards at once. The idea is to create CSV files to be imported from Anki. Three types of CSVs to practice: translate, speaking, listen. Here we go:
 
